@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://IAmirKhani.github.io/sitemap.xml
