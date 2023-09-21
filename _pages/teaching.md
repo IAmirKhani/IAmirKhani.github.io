@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I have served as a Teaching Assistant for the following courses at [University/Institution Name, if you want to specify]:
+I have served as a Teaching Assistant for the following courses at Computer Science Departmenet of Amirkabir University of Technology:
 
 - **Operating Systems**
 - **Artificial Intelligence**
