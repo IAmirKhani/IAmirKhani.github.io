@@ -82,11 +82,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Systems neuroscience 
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Atrificial intelligence
       items:
         - Description 1.
         - Description 2.
