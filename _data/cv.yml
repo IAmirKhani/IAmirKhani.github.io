@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science
+    - title: Bachelor of Science 
       institution: Amirkabir University of Technology, Tehran, Iran
       year: 2019-2024
       description:
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Science
+      institution: Amirkabir University of Technology, Tehran, Iran
+      year: 2019-2021
       description:
         - Description 1.
         - Description 2.
@@ -73,7 +73,7 @@
   contents:
     - year: 1921
       items: 
-        - Nobel Prize in Physics 
+        - to see if changes
         - Matteucci Medal
     - year: 2029
       items: 
