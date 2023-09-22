@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://aut.ac.ir/content/191/Mathemarics'>Department of Computer Science, Amirkabir University of Technology</a>. Theran, Iran.
 
 profile:
   align: right
