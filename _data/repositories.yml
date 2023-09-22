@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - IAmirKhani
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - IAmirKhani/Neural-response-prediction-using-RNN
+  - IAmirKhani/Pupillary-Responses-Relationship
+  - IAmirKhani/jspsych-psychophysics-tasks
+  - IAmirKhani/NQueens-using-genetic-algorithm
+  - IAmirKhani/simple-monopoly-ai-agent
+  - IAmirKhani/Analyzing-and-Predicting-130-US-hospitals-Diabetes-Readmission
