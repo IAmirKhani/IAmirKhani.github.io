@@ -5,7 +5,7 @@ description: Using the Steinmetz dataset, we predict the neural responses in the
 img: assets/img/steinmetz.jpeg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications:
 ---
 
 This project was undertaken as the final assignment for the Deep Learning course at Neuromatch Academy. Our team trained an RNN to predict the neural responses in the midbrain using data from other brain regions. Subsequently, we utilized the latent variables from this RNN to train an SVM, aiming to predict wheel direction. We achieved commendable results in both tasks.
